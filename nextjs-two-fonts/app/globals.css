@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text1 {
+  font-family: var(--font-capriola);
+}
+
+.text2 {
+  font-family: var(--font-advent-pro);
+  font-weight: 300;
+  color: #5c5cff;
+}
