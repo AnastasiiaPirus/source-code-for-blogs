@@ -1,0 +1,12 @@
+.nav-bar {
+  display: flex;
+  gap: 20px;
+}
+
+.global {
+  background-color: #ffaaaa;
+}
+
+.unique {
+  background-color: #aaffaa;
+}
